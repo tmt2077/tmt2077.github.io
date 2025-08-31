@@ -1,7 +1,6 @@
  <center>
      <h1>谭雯文 - 技术美术<h1>
- <center>
-
+ </center>
 ## 个人信息
 
 * 性 别：女&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25
