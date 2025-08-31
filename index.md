@@ -56,9 +56,10 @@ Supported arguments:
 
 ## 项目经历
 ### ****项目代号OneUp，射击类游戏** `藤库网络科技有限公司`
-    * 职责描述：
-    * &emsp;&emsp;&ensp;对布料材质进行风力模拟运算
-    * &emsp;&emsp;&ensp;对项目里杂乱的各种资产进行梳理，匹配新的母材质
-    * &emsp;&emsp;&ensp;
+* 职责描述：
+* &emsp;&ensp;对布料材质进行风力模拟运算
+* &emsp;&ensp;对项目里杂乱的各种资产进行梳理，匹配新的母材质
+* &emsp;&ensp;
+* &emsp;&ensp;
 
 
