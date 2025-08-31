@@ -27,27 +27,31 @@ Supported arguments:
 {% include cv-contact.html %}
 ## 个人信息
 
-* 求职岗位：技术美术&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：24
+* 求职岗位：技术美术&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  年 龄：24
 * 现居地：广西艺术学院 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  薪资：面议
 
 
 
 ## 教育经历
-### **四川大学/Sichuan University (SCU)** `2020.9-2024.6`
+
+### ****四川大学/Sichuan University (SCU)** `2020.9-2024.6`
 - 荣誉：校级综合奖学金
 - 学习内容：中西美术史 中西美学 摄影艺术 国画 书法 素描 篆刻 版式设计 数字媒体艺术
 ### **广西艺术学院/Guangxi Arts University（GAU）** `2024 - 至今`
 - 荣誉：研究生三等奖学金
 - 学习内容：艺术理论 视觉艺术 数字媒体艺术 程序化美术
 
-
-
-
 ## 专业技能
 
-* 熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言
-* 掌握基础数据结构和算法的基本原理
-* 等等
+* 熟悉HLSL语言编写unity引擎里的shader，并实现构想的图形效果
+* 熟悉C#语言编写unity脚本实现交互类效果以及常用组件使用方法
+* 熟悉UE5的材质编写和场景构造
+* 熟悉UE5的蓝图脚本、Nigara粒子系统、动画绑定系统和状态机构建
+* 了解模型资产生产全流程和最基础的游戏开发流程
+* 了解渲染管线基础，线性代数基础，图形学基础，c++基础，和OpenGL基础
+* 了解Houdini的工具链开发过程；了解Houdini在UE5里使用HDA的流程；了解houdini制作PCG的流程；掌握SOP模块
+* 了解Profiler工具使用以及内存，DrawCall性能优化的基本方法
+* 了解Maya里模型的制作流程以及在PS、SD进行美术资产预先生产
 
 ## 项目经历
 
