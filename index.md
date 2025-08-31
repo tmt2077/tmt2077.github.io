@@ -34,7 +34,7 @@ Supported arguments:
 
 ## 教育经历
 
-### ****四川大学/Sichuan University (SCU)** `2020.9-2024.6`
+### **  四川大学/Sichuan University (SCU)** `2020.9-2024.6`
 - 荣誉：校级综合奖学金
 - 学习内容：中西美术史 中西美学 摄影艺术 国画 书法 素描 篆刻 版式设计 数字媒体艺术
 ### **广西艺术学院/Guangxi Arts University（GAU）** `2024 - 至今`
