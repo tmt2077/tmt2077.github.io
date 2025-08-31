@@ -11,7 +11,7 @@ phone:
  19180989356
 ---
  <center>
-     <h1 style="font-size: 4em; text-align: center;">
+     <h1 style="font-size: 5em; text-align: center;">
  谭雯文 - 技术美术
 </h1>
  </center>
@@ -25,23 +25,23 @@ Supported arguments:
 -->
 
 {% include cv-contact.html %}
-
-## Education
-
-### **Carnegie Mellon University** `2018.9 - 2024.10`
-
-
 ## 个人信息
 
-* 性 别：女&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25
-* 手 机：134XXXX3216 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：XXXXX@XXX.com
-* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
+* 求职岗位：技术美术&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：24
+* 现居地：广西艺术学院 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  薪资：面议
 
-## 工作及教育经历
 
-* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科
+
+## 教育经历
+### **四川大学/Sichuan University (SCU)** `2020.9-2024.6`
+- 荣誉：校级综合奖学金
+- 学习内容：中西美术史 中西美学 摄影艺术 国画 书法 素描 篆刻 版式设计 数字媒体艺术
+### **广西艺术学院/Guangxi Arts University（GAU）** `2024 - 至今`
+- 荣誉：研究生三等奖学金
+- 学习内容：艺术理论 视觉艺术 数字媒体艺术 程序化美术
+
+
+
 
 ## 专业技能
 
