@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: 谭雯文个人简历
 email:
   url: 1613552846@qq.com
   text: 1613552846@qq.com
