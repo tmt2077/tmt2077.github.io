@@ -1,6 +1,6 @@
  <center>
 <h1 style="font-size: 4em; text-align: left;">
-    谭雯文 - 技术美术&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; <img src="https://tmt2077.github.io/assets/QQ图片20230121140825.jpg" alt="个人照片" style="float:right; width:128px; height:160px; margin-left: 100px;" />
+    谭雯文 - 技术美术 <img src="https://tmt2077.github.io/assets/QQ图片20230121140825.jpg" alt="个人照片" style="float:right; width:128px; height:160px; margin-left: 100px;" />
 </h1>
  </center>
 ## 个人信息
