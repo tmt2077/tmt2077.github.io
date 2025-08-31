@@ -1,14 +1,13 @@
  <center>
 <h1 style="font-size: 4em; text-align: left;">
-    谭雯文 - 技术美术
+    谭雯文 - 技术美术&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; <img src="https://tmt2077.github.io/assets/QQ图片20230121140825.jpg" alt="个人照片" style="float:right; width:128px; height:160px; margin-left: 100px;" />
 </h1>
  </center>
 ## 个人信息
 
 * 性 别：女&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25
 * 手 机：134XXXX3216 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：XXXXX@XXX.com
-* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; <img src="https://tmt2077.github.io/assets/QQ图片20230121140825.jpg" alt="个人照片" style="float:right; width:128px; height:160px; margin-left: 100px;" />
-
+* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
 ## 工作及教育经历
 
 * 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字
