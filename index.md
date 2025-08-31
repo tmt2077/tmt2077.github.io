@@ -1,487 +1,61 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-    <!DOCTYPE html>
-<html>
+ <center>
+     <h1>XXX</h1>
+ </center>
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
-  
-  <title>宫湦 - Technical Art</title>
-  
-    <link rel="shortcut icon" href="/friends/icon.jpg">
-  
-  
-    <link rel='manifest' href='/manifest.json'>
-  
+## 个人信息
 
-  
-<link rel="stylesheet" href="/css/var.css">
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25
+* 手 机：134XXXX3216 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：XXXXX@XXX.com
+* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
 
-  
-<link rel="stylesheet" href="/css/main.css">
+## 工作及教育经历
 
-  
-<link rel="stylesheet" href="/css/typography.css">
+* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字
+* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生
+* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科
 
-  
-<link rel="stylesheet" href="/css/code-highlighting.css">
+## 专业技能
 
-  
-<link rel="stylesheet" href="/css/components.css">
+* 熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言
+* 掌握基础数据结构和算法的基本原理
+* 等等
 
-  
-<link rel="stylesheet" href="/css/nav.css">
+## 项目经历
 
-  
-<link rel="stylesheet" href="/css/paginator.css">
+1. 公司/学校 - XXweb服务器 - 独立开发 - 201508- 201512
+    * 具体功能
+    * 运用了那些技术，技术难点是
+    * 效果如何
+    * demo演示地址，github地址
 
-  
-<link rel="stylesheet" href="/css/footer.css">
+2. 公司/学校 - XX游戏 - 负责后端开发 - 201309- 201401
+    * 具体功能
+    * 运用了那些技术，技术难点是
+    * 效果如何
+    * demo演示地址，github地址
 
-  
-<link rel="stylesheet" href="/css/post-list.css">
+## 获奖经历
+* XXX 优秀新人
+* XXX 学生社团优秀干部
+* 竞赛 XXX 奖
 
-  
-<link rel="stylesheet" href="/css/waline.css">
+## 个人账号
+* blog 地址 (附加自己博客特色，写了哪些技术文章)
+* github 地址 (附加自己github特色，突出的项目)
 
-  
-  
-<link rel="stylesheet" href="/css/index.css">
+## 其他信息
+* 喜欢钻研技术 等等
+* 性格开朗，喜欢跳舞，做个主持人 等等
 
-  
-  
+## 在线制作简历
 
-  
-<meta name="generator" content="Hexo 5.4.0"></head>
-    
-    <body style="background-image: url(theme-img/background.jpg) ;
-        background-attachment: fixed;
-        background-size: cover;">
+卡码简历：[https://jianli.kamacoder.com](https://jianli.kamacoder.com/)
 
+![](https://file1.kamacoder.com/i/web/2025-05-28_10-38-55.jpg)
 
+可以轻松制作出简洁高质量的简历。
 
-        <nav id="theme-nav">
-    <div class="inner">
-        <a class="title" href="/">主页</a>
-        <div class="nav-arrow"></div>
-        <div class="nav-items">
-            <a class="nav-item nav-item-home" href="/">主页</a>
-            
-            
-            <a class="nav-item nav-item-search nav-item-icon" href="/search" target="_blank">&nbsp;</a>
-            
-            
-            
-            <a class="nav-item" href="/archives">文档</a>
-            
-            
-            
-            <a class="nav-item" href="/demo">Demo</a>
-            
-            
-            
-            <a class="nav-item" href="/friends">友链</a>
-            
-            
-            
-            <a class="nav-item" href="/about">关于我</a>
-            
-            
-            
-            <a class="nav-item" href="/resume">简历</a>
-            
-            
-            
-            <a class="nav-item nav-item-github nav-item-icon" href="https://github.com/GongShengs" target="_blank">&nbsp;</a>
-            
-            
-            
-            <a class="nav-item nav-item-codepen nav-item-icon" href="https://www.artstation.com/ub010b709" target="_blank">&nbsp;</a>
-            
-            
-            
-            <a class="nav-item nav-item-patreon nav-item-icon" href="https://www.zhihu.com/people/hu-xx-24-88" target="_blank">&nbsp;</a>
-            
-            
-        </div>
-    </div>
-</nav>
-        <div class="container">
-    
-    <div class="hero">
-        <div class="group">
-            <h2 class="sub">Real-Time Rendering/Procedural/Tools</h2>
-            <h2 class="large">Technical Art Blog</h2>
-        </div>
-    </div>
+## 总结
 
-    <h2 class="section-title">最新文章</h2>
-    
+**好的简历是敲门砖，同时也不要在简历上花费过多的精力，好的简历以及面试技巧都是锦上添花**，真的求得心得的offer靠的还是真才实学。
 
-    <div class="post-list">
-        
-        <article class="post-list-item">
-            <a href="/2023/02/19/%E7%A8%8B%E5%BA%8F%20%E5%AD%A6%E4%B9%A0%20%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/">
-                
-                <div class="content">
-                    <div class="title">
-                        程序 学习 正则表达式
-                    </div>
-                    
-                    <div class="excerpt">
-                        
-                    </div>
-                    
-                    <div class="time">
-                        
-                        
-                        <span>February</span>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        <span>&nbsp;19,&nbsp;</span>
-                        <span>2023</span>
-                    </div>
-                </div>
-            </a>
-        </article>
-        
-        <article class="post-list-item">
-            <a href="/2023/02/19/Unity%20Shader%E5%85%A5%E9%97%A8%E7%B2%BE%E8%A6%81%20%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/">
-                
-                <div class="content">
-                    <div class="title">
-                        Unity Shader入门精要 读书笔记
-                    </div>
-                    
-                    <div class="excerpt">
-                        
-                    </div>
-                    
-                    <div class="time">
-                        
-                        
-                        <span>February</span>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        <span>&nbsp;19,&nbsp;</span>
-                        <span>2023</span>
-                    </div>
-                </div>
-            </a>
-        </article>
-        
-        <article class="post-list-item">
-            <a href="/2023/02/19/Unity%20Shader%20%E5%AD%A6%E4%B9%A0%20Texture%20Repetition/">
-                
-                <div class="content">
-                    <div class="title">
-                        Unity Shader 学习 Texture Repetition
-                    </div>
-                    
-                    <div class="excerpt">
-                        
-                    </div>
-                    
-                    <div class="time">
-                        
-                        
-                        <span>February</span>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        <span>&nbsp;19,&nbsp;</span>
-                        <span>2023</span>
-                    </div>
-                </div>
-            </a>
-        </article>
-        
-        <article class="post-list-item">
-            <a href="/2023/02/19/Unity%20Shader%20%E5%AD%A6%E4%B9%A0%20Texture%20Mapping/">
-                
-                <div class="content">
-                    <div class="title">
-                        Unity Shader 学习 Texture Mapping
-                    </div>
-                    
-                    <div class="excerpt">
-                        
-                    </div>
-                    
-                    <div class="time">
-                        
-                        
-                        <span>February</span>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        <span>&nbsp;19,&nbsp;</span>
-                        <span>2023</span>
-                    </div>
-                </div>
-            </a>
-        </article>
-        
-        <article class="post-list-item">
-            <a href="/2023/02/19/Unity%20Shader%20%E5%AD%A6%E4%B9%A0%20Tessellation(%E6%9B%B2%E9%9D%A2%E7%BB%86%E5%88%86)/">
-                
-                <div class="content">
-                    <div class="title">
-                        Unity Shader 学习 Tessellation(曲面细分)
-                    </div>
-                    
-                    <div class="excerpt">
-                        
-                    </div>
-                    
-                    <div class="time">
-                        
-                        
-                        <span>February</span>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        <span>&nbsp;19,&nbsp;</span>
-                        <span>2023</span>
-                    </div>
-                </div>
-            </a>
-        </article>
-        
-        <article class="post-list-item">
-            <a href="/2023/02/19/Unity%20Shader%20%E5%AD%A6%E4%B9%A0%20Old%20TV%20Effect/">
-                
-                <div class="content">
-                    <div class="title">
-                        Unity Shader 学习 Old TV Effect
-                    </div>
-                    
-                    <div class="excerpt">
-                        
-                    </div>
-                    
-                    <div class="time">
-                        
-                        
-                        <span>February</span>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        <span>&nbsp;19,&nbsp;</span>
-                        <span>2023</span>
-                    </div>
-                </div>
-            </a>
-        </article>
-        
-        <article class="post-list-item">
-            <a href="/2023/02/19/Unity%20Shader%20%E5%AD%A6%E4%B9%A0%20Normal%20Blend/">
-                
-                <div class="content">
-                    <div class="title">
-                        Unity Shader 学习 Normal Blend
-                    </div>
-                    
-                    <div class="excerpt">
-                        
-                    </div>
-                    
-                    <div class="time">
-                        
-                        
-                        <span>February</span>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        <span>&nbsp;19,&nbsp;</span>
-                        <span>2023</span>
-                    </div>
-                </div>
-            </a>
-        </article>
-        
-        <article class="post-list-item">
-            <a href="/2023/02/19/Unity%20Shader%20%E5%AD%A6%E4%B9%A0%20MatCap/">
-                
-                <div class="content">
-                    <div class="title">
-                        Unity Shader 学习 MatCap
-                    </div>
-                    
-                    <div class="excerpt">
-                        
-                    </div>
-                    
-                    <div class="time">
-                        
-                        
-                        <span>February</span>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        <span>&nbsp;19,&nbsp;</span>
-                        <span>2023</span>
-                    </div>
-                </div>
-            </a>
-        </article>
-        
-        <article class="post-list-item">
-            <a href="/2023/02/19/Unity%20Shader%20%E5%AD%A6%E4%B9%A0%20Glitch%20Art/">
-                
-                <div class="content">
-                    <div class="title">
-                        Unity Shader 学习 Glitch Art
-                    </div>
-                    
-                    <div class="excerpt">
-                        
-                    </div>
-                    
-                    <div class="time">
-                        
-                        
-                        <span>February</span>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        <span>&nbsp;19,&nbsp;</span>
-                        <span>2023</span>
-                    </div>
-                </div>
-            </a>
-        </article>
-        
-        <article class="post-list-item">
-            <a href="/2023/02/19/Unity%20Shader%20%E5%AD%A6%E4%B9%A0%20C%20for%20Graphics/">
-                
-                <div class="content">
-                    <div class="title">
-                        Unity Shader 学习 C for Graphics
-                    </div>
-                    
-                    <div class="excerpt">
-                        
-                    </div>
-                    
-                    <div class="time">
-                        
-                        
-                        <span>February</span>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        
-                        <span>&nbsp;19,&nbsp;</span>
-                        <span>2023</span>
-                    </div>
-                </div>
-            </a>
-        </article>
-        
-    </div>
-
-    
-<div class="paginator">
-    <span class="page-number current">1</span><a class="page-number" href="/page/2/">2</a><a class="page-number" href="/page/3/">3</a><a class="page-number" href="/page/4/">4</a><a class="extend next" rel="next" href="/page/2/">下一页</a>
-</div>
-
-</div>
-        <footer>
-    <div class="inner">
-        <div class="links">
-            
-        </div>
-        &copy; 2023 Master Gong Sheng<br />
-        Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
-    </div>
-</footer>
-
-        
-<script src="/js/main.js"></script>
-
-        
-    </body>
-</html>
