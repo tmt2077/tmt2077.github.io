@@ -1,4 +1,3 @@
-
 ---
 layout: cv
 title: Wode "Nimo" Ni
@@ -21,6 +20,11 @@ Supported arguments:
 -->
 
 {% include cv-contact.html %}
+
+## Education
+
+### **Carnegie Mellon University** `2018.9 - 2024.10`
+
 
 ## 个人信息
 
