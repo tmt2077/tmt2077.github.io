@@ -1,5 +1,5 @@
  <center>
-<h1 style="font-size: 4em; text-align: center;">
+<h1 style="font-size: 4em; text-align: left;">
     谭雯文 - 技术美术
 </h1>
  </center>
