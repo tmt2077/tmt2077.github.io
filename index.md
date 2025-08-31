@@ -1,5 +1,7 @@
  <center>
-     <h1>谭雯文——技术美术</h1>
+     <h1 style="font-size: 2.5em; text-align: center;">
+    谭雯文 - 技术美术
+</h1>
  </center>
 
 ## 个人信息
