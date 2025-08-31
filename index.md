@@ -2,21 +2,21 @@
 layout: cv
 title: Wode "Nimo" Ni
 email:
-  url: mailto:wode.nimo.ni@gmail.com
-  text: wode.nimo.ni@gmail.com
+  url: 1613552846@qq.com
+  text: 1613552846@qq.com
 homepage:
-  url: https://wodenimoni.com
-  text: wodenimoni.com
+  url: https://tmt2077.github.io/
+  text: tmt2077.github.io
 ---
 
-# Wode **Ni**
 
+# 谭雯文 - 技术美术
 <!--
 include contact information from the front matter
 Supported arguments:
     - homepage: url, text
-    - phone
     - email
+    - phone:19180989356
 -->
 
 {% include cv-contact.html %}
