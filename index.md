@@ -11,7 +11,7 @@ phone:
  19180989356
 ---
  <center>
-     <h1 style="font-size: 5em; text-align: center;">
+     <h1 style="font-size: 4em; text-align: center;">
  谭雯文 - 技术美术
 </h1>
  </center>
