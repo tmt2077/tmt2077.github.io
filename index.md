@@ -1,28 +1,26 @@
-{% include cv-contact.html %}
- <center>
-<h1 style="font-size: 4em; text-align: left;">
-    谭雯文 - 技术美术
-</h1>
- </center>
+
 ---
 layout: cv
 title: Wode "Nimo" Ni
 email:
-  url: 1613552846@qq.com
-  text: 1613552846@qq.com
+  url: mailto:wode.nimo.ni@gmail.com
+  text: wode.nimo.ni@gmail.com
 homepage:
-  url: https://tmt2077.github.io/
-  text: tmt2077.github.io
+  url: https://wodenimoni.com
+  text: wodenimoni.com
 ---
+
 # Wode **Ni**
+
 <!--
 include contact information from the front matter
 Supported arguments:
     - homepage: url, text
+    - phone
     - email
-    - phone:19180989356
 -->
 
+{% include cv-contact.html %}
 
 ## 个人信息
 
