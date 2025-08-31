@@ -7,6 +7,9 @@ email:
 homepage:
   url: https://tmt2077.github.io/
   text: tmt2077.github.io
+phone:
+ url:19180989356
+ text:19180989356
 ---
 
 
@@ -16,7 +19,7 @@ include contact information from the front matter
 Supported arguments:
     - homepage: url, text
     - email
-    - phone:19180989356
+    - phone
 -->
 
 {% include cv-contact.html %}
