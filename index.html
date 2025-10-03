@@ -238,7 +238,6 @@
         </div>
     </section>
     <!-- 简历 -->
-
     <!-- 作品集 -->
     <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="作品集">
         <div class="container px-5">
@@ -291,6 +290,66 @@
         </div>
     </section>
     <!-- 作品集-->
+    <!-- 学习笔记 -->
+    <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="learning">
+        <div class="container px-5">
+            <header>
+                <h2 id="learning-subtitle"><i class="bi bi-journal-text"></i>&nbsp;学习笔记 / LEARNING NOTES</h2>
+            </header>
+            <style>
+                .resume-card-wrapper {
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    padding: 3rem 0;
+                }
+
+                .resume-card {
+                    width: 400px;
+                    height: 200px;
+                    background: #ebebeb;
+                    border-radius: 20px;
+                    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    cursor: pointer;
+                    transition: all 0.3s ease;
+                    text-decoration: none;
+                }
+
+                    .resume-card:hover {
+                        transform: translateY(-5px);
+                        box-shadow: 0 15px 40px rgba(0, 0, 0, 0.5);
+                    }
+
+                .resume-text {
+                    color: #000000;
+                    font-size: 2.5em;
+                    font-weight: bold;
+                    display: flex;
+                    align-items: center;
+                    gap: 20px;
+                }
+            </style>
+            <div class="resume-card-wrapper">
+                <!-- 第一个卡片：水彩学习笔记 -->
+                <a href="static/assets/learningwatermat.pdf" class="resume-card" target="_blank">
+                    <div class="resume-text">
+                        水体材质解析 <span class="arrow">→</span>
+                    </div>
+                </a>
+
+                <!-- 第二个卡片：May学习笔记 -->
+                <a href="static/assets/learningmay.pdf" class="resume-card" target="_blank">
+                    <div class="resume-text">
+                        may书的读书笔记 <span class="arrow">→</span>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </section>
+    <!-- 学习笔记 -->
 
     <!-- Publications -->
     <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="publications">
