@@ -24,7 +24,7 @@ Supported arguments:
     - phone
 -->
 
-{% include cv-contact.html %}
+{%- comment -%}{% include cv-contact.html %}{%- endcomment -%}
 ## 个人信息
 
 * 求职岗位：技术美术&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  年 龄：24
