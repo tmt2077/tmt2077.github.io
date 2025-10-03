@@ -17,23 +17,49 @@
     <!-- Google fonts-->
     <link rel="preconnect" href="https://fonts.gstatic.com" />
     <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,600;1,600&amp;display=swap"
-        rel="stylesheet" />
-    <link
-        href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,300;0,500;0,600;0,700;1,300;1,500;1,600;1,700&amp;display=swap"
-        rel="stylesheet" />
+          rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,300;0,500;0,600;0,700;1,300;1,500;1,600;1,700&amp;display=swap"
+          rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,400;1,400&amp;display=swap"
-        rel="stylesheet" />
+          rel="stylesheet" />
 
     <!-- Core theme CSS (includes Bootstrap)-->
     <link type="text/css" href="static/css/styles.css" rel="stylesheet" />
     <link type="text/css" href="static/css/main.css" rel="stylesheet" />
+
+    <style>
+        /* 强制所有文字为黑色 */
+        body, p, h1, h2, h3, h4, h5, h6, span, div, a, li, td, th, label, button, input, textarea {
+            color: #000000 !important;
+        }
+
+        /* 导航栏链接 */
+        .navbar-nav .nav-link {
+            color: #000000 !important;
+        }
+
+        /* 页面标题保持白色（因为背景是图片） */
+        #top-section-bg-text {
+            color: #ffffff !important;
+        }
+
+        /* Footer链接保持白色（因为背景是深色） */
+        footer a {
+            color: #ffffff !important;
+        }
+
+        /* 链接悬停效果 - 可选粉色 */
+        a:hover {
+            color: #ffc0cb !important;
+        }
+    </style>
 
     <!-- Bootstrap core JS-->
     <script type="text/javascript" src="static/js/bootstrap.bundle.min.js"></script>
 
     <!-- For Compatability -->
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-    
+
     <!-- Markdown -->
     <script type="text/javascript" src="static/js/marked.min.js"></script>
 
@@ -70,7 +96,7 @@
     </script>
     <script type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
     <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-    
+
     <!-- Core JS-->
     <script type="text/javascript" src="static/js/scripts.js"></script>
     <script type="text/javascript" src="static/js/js-yaml.min.js"></script>
