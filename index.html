@@ -143,10 +143,13 @@
                         <a class="nav-link me-lg-3" href="#index">简历</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#index">作品集</a>
+                        <a class="nav-link me-lg-3" href="#portfolio">作品集</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#publications">PUBLICATIONS</a>
+                        <a class="nav-link me-lg-3" href="#learning">学习笔记</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link me-lg-3" href="#skills">其他</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link me-lg-3" href="#awards">AWARDS</a>
@@ -221,7 +224,7 @@
                 .resume-text {
                     color: #000000;
                     font-size: 2.5em;
-                    font-weight: lighter;
+                    font-weight: normal;
                     display: flex;
                     align-items: center;
                     gap: 20px;
@@ -274,7 +277,7 @@
                 .resume-text {
                     color: #000000;
                     font-size: 2.5em;
-                    font-weight: lighter;
+                    font-weight: normal;
                     display: flex;
                     align-items: center;
                     gap: 20px;
@@ -297,14 +300,14 @@
                 <h2 id="learning-subtitle"><i class="bi bi-journal-text"></i>&nbsp;学习笔记 / LEARNING NOTES</h2>
             </header>
             <style>
-                .resume-card-wrapper {
+                .learning-card-wrapper {
                     display: flex;
                     justify-content: center;
                     align-items: center;
                     padding: 3rem 0;
                 }
 
-                .resume-card {
+                .learning-card {
                     width: 300px;
                     height: 400px;
                     background: #ebebeb;
@@ -318,12 +321,12 @@
                     text-decoration: none;
                 }
 
-                    .resume-card:hover {
+                    .learning-card:hover {
                         transform: translateY(-5px);
                         box-shadow: 0 15px 40px rgba(0, 0, 0, 0.5);
                     }
 
-                .resume-text {
+                .learning-text {
                     color: #000000;
                     font-size: 1.5em;
                     font-weight: lighter;
@@ -332,17 +335,17 @@
                     gap: 20px;
                 }
             </style>
-            <div class="resume-card-wrapper">
+            <div class="learning-card-wrapper">
                 <!-- 第一个卡片：水彩学习笔记 -->
-                <a href="static/assets/learningwatermat.pdf" class="resume-card" target="_blank">
-                    <div class="resume-text">
+                <a href="static/assets/learningwatermat.pdf" class="learning-card" target="_blank">
+                    <div class="learninge-text">
                         水体材质解析 <span class="arrow">→</span>
                     </div>
                 </a>
 
                 <!-- 第二个卡片：May学习笔记 -->
-                <a href="static/assets/learningmay.pdf" class="resume-card" target="_blank">
-                    <div class="resume-text">
+                <a href="static/assets/learningmay.pdf" class="learning-card" target="_blank">
+                    <div class="learning-text">
                         may书的读书笔记 <span class="arrow">→</span>
                     </div>
                 </a>
@@ -350,29 +353,24 @@
         </div>
     </section>
     <!-- 学习笔记 -->
-
-    <!-- Publications -->
-    <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="publications">
+    <!-- Other Skills -->
+    <section class="bg-light mt5 md5" id="skills">
         <div class="container px-5">
             <header>
-                <h2 id="publications-subtitle"><i class="bi bi-file-text-fill"></i>&nbsp;PUBLICATIONS</h2>
+                <h2 id="skills-subtitle"><i class="bi bi-diagram-3"></i>&nbsp;其他技能树 / OTHER SKILLS</h2>
             </header>
-            <div class="main-body" id="publications-md"></div>
 
+            <div class="resume-card-wrapper">
+                <a href="static/assets/UI.pdf" class="resume-card" target="_blank">
+                    <div class="resume-text">
+                        技能树 <span class="arrow">→</span>
+                    </div>
+                </a>
+            </div>
         </div>
     </section>
-    <!-- Publications  -->
-    <!-- Awards -->
-    <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="awards">
-        <div class="container px-5">
-            <header>
-                <h2 id="awards-subtitle"><i class="bi bi-award-fill"></i>AWARDS </h2>
-            </header>
-            <div class="main-body" id="awards-md"></div>
-
-        </div>
-    </section>
-    <!-- Awards -->
+    <!-- Other Skills -->
+   
     <!-- Footer-->
     <footer class="bg-bottom text-center py-5">
         <div class="container px-5">
