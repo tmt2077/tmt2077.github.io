@@ -41,14 +41,26 @@
         #top-section-bg-text {
             color: #ffffff !important;
             text-align: center !important;
-            font-size: 5.4rem !important; /* 可以调整这个数值 */
+            font-size: 6rem !important; /* 可以调整这个数值 */
             width: 100%;
         }
         /* home-subtitle 居中 */
         #home-subtitle {
             text-align: center !important;
         }
+        /* 平板设备 (屏幕宽度 ≤ 1024px) */
+        @media screen and (max-width: 1024px) {
+            #top-section-bg-text {
+                font-size: 4rem !important;
+            }
+        }
 
+        /* 小平板和大手机 (屏幕宽度 ≤ 768px) */
+        @media screen and (max-width: 768px) {
+            #top-section-bg-text {
+                font-size: 3rem !important;
+            }
+        }
         /* 照片左对齐 */
         #avatar {
             text-align: left !important;
