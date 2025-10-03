@@ -181,9 +181,8 @@
         </div>
     </section>
     <!-- Home -->
-
     <!-- 简历 -->
-    <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="index">
+    <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="简历">
         <div class="container px-5">
             <header>
                 <h2 id="index-subtitle"><i class="bi bi-list-ul"></i>&nbsp;INDEX</h2>
@@ -200,7 +199,7 @@
                 .resume-card {
                     width: 400px;
                     height: 200px;
-                    background: #cccccc;
+                    background: #ebebeb;
                     border-radius: 20px;
                     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
                     display: flex;
@@ -236,6 +235,59 @@
         </div>
     </section>
     <!-- 简历 -->
+
+    <!-- 作品集 -->
+    <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="作品集">
+        <div class="container px-5">
+            <header>
+                <h2 id="portfolio-subtitle"><i class="bi bi-folder"></i>&nbsp;作品集 / PORTFOLIO</h2>
+            </header>
+            <style>
+                .resume-card-wrapper {
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    padding: 3rem 0;
+                }
+
+                .resume-card {
+                    width: 400px;
+                    height: 200px;
+                    background: #ebebeb;
+                    border-radius: 20px;
+                    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    cursor: pointer;
+                    transition: all 0.3s ease;
+                    text-decoration: none;
+                }
+
+                    .resume-card:hover {
+                        transform: translateY(-5px);
+                        box-shadow: 0 15px 40px rgba(0, 0, 0, 0.5);
+                    }
+
+                .resume-text {
+                    color: #000000;
+                    font-size: 2.5em;
+                    font-weight: bold;
+                    display: flex;
+                    align-items: center;
+                    gap: 20px;
+                }
+            </style>
+            <div class="resume-card-wrapper">
+                <a href="static/assets/portfolio.pdf" class="resume-card" target="_blank">
+                    <div class="resume-text">
+                        作品集 <span class="arrow">→</span>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </section>
+    <!-- 作品集-->
 
     <!-- Publications -->
     <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="publications">
