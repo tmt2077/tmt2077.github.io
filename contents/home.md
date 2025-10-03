@@ -1,17 +1,12 @@
 
+#### 关于我
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+坨媽头正在努力学习想要成为一名合格的技术美术ing~\
+研究生在读~
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+#### 联系方式
 
-#### Contact
+Email: 1613552846@qq.com\
+更多联系方式请查看简历
 
-Email: senli[at]fas.harvard.edu
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
 
