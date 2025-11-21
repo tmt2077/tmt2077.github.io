@@ -91,38 +91,7 @@
                 color: #000 !important;
             }
 
-/* 个人信息列表整体 */
-.info-list {
-    list-style: none;
-    padding-left: 0;
-    margin: 0;
-}
 
-/* 四列网格布局 - 统一左对齐 + 加宽间距 */
-.info-row {
-    display: grid;
-    grid-template-columns: auto 1fr auto 1fr; /* 左对齐的四列 */
-    column-gap: 2.5rem; /* ★ 间隔加宽（可调） */
-    row-gap: 0.4rem;
-    align-items: baseline;
-    text-align: left; /* ★ 所有字左对齐 */
-}
-
-/* 标签统一左对齐 */
-.info-row .label {
-    white-space: nowrap;
-    text-align: left;
-}
-
-/* 值统一左对齐 */
-.info-row .value {
-    text-align: left;
-}
-
-/* 避免长链接撑爆布局 */
-.info-row .value a {
-    word-break: break-all;
-}
 
 
         
@@ -155,49 +124,34 @@
        <a href="javascript:history.back()">谭雯文 - 技术美术</a>    
     </h1>
 
+ <div class="contact-info">
+        <!-- 邮箱和电话 -->
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 0.5rem;">
+            <p style="margin: 0; text-align: left;">
+                <strong> 邮箱:</strong> <a href="mailto:1613552846@qq.com">1613552846@qq.com</a>
+            </p>
+            <p style="margin: 0; text-align: right;">
+                <strong> 电话:</strong> 19180989356
+            </p>
+        </div>
+
+        <!-- 个人网站和知乎 -->
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 0.5rem;">
+            <p style="margin: 0; text-align: left;">
+                <strong> 个人网站:</strong> <a href="https://tmt2077.github.io/" target="_blank">tmt2077.github.io</a>
+            </p>
+            <p style="margin: 0; text-align: left;">
+                <strong>知乎:</strong> <a href="https://www.zhihu.com/people/xiao-wen-zi-ha-ha-45" target="_blank">https://www.zhihu.com/people/xiao-wen-zi-ha-ha-45</a>
+            </p>
+        </div>
+
+    </div>
+
     <h2>个人信息</h2>
-   <ul class="info-list">
-    <li class="info-row">
-        <span class="label"><strong>求职岗位:</strong></span>
-        <span class="value">技术美术</span>
-        <span class="label"><strong>邮箱:</strong></span>
-          <span class="value">
-            <a href="mailto:1613552846@qq.com">1613552846@qq.com</a>
-        </span>
-      
-    </li>
-
-    <li class="info-row">
-        <span class="label"><strong>年龄:</strong></span>
-          <span class="value">24</span>
-        <span class="label"><strong>电话:</strong></span>
-       <span class="value">19180989356</span>
-       
-    </li>
-
-    <li class="info-row">
-        <span class="label"><strong>现居地:</strong></span>
-          <span class="value">上海闵行区</span>
-      
-        <span class="label"><strong>个人网站:</strong></span>
-        <span class="value">
-            <a href="https://tmt2077.github.io/" target="_blank">tmt2077.github.io</a>
-        </span>
-    </li>
-
-    <li class="info-row">
-         <span class="label"><strong>薪资:</strong></span>
-        <span class="value">面议</span>
-        <span class="label"><strong>知乎:</strong></span>
-        <span class="value">
-            <a href="https://www.zhihu.com/people/xiao-wen-zi-ha-ha-45" target="_blank">
-                https://www.zhihu.com/people/xiao-wen-zi-ha-ha-45
-            </a>
-        </span>
-        
-       
-    </li>
-</ul>
+    <ul>
+        <li><strong>求职岗位:</strong> 技术美术 &emsp;&emsp; <strong>年龄:</strong> 24</li>
+        <li><strong>现居地:</strong> 上海闵行区 &emsp;&emsp; <strong>薪资:</strong> 面议</li>
+    </ul>
 
     <h2>教育经历</h2>
 
